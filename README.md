@@ -1,9 +1,7 @@
 <!-- body{ font-family: "Times New Roman", Times, serif; } p{ font-family: "Times New Roman", Times, serif; margin: 10px 10px 15px 20px; } h3{ margin: 5px; } h2{ margin: 10px; } h1{ margin: 10px 0px 0px 20px; } div.main-body{ align:center; margin: 30px; } hr{ margin:20px 0px 20px 0px; } -->
-<center>
-<a href="http://www.bu.edu"><img border="0" src="http://www.cs.bu.edu/fac/betke/images/bu-logo.gif"
-width="119" height="120"></a>
-</center>
-
+<p align="center">
+  <img src="http://www.cs.bu.edu/fac/betke/images/bu-logo.gif"/>
+</p>
 Hand Gestures Recognition System Using Python And Open-cv
 
 
